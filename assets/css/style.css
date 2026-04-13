@@ -560,6 +560,7 @@ body {
   border-radius: var(--radius-md);
   padding: 1.1rem 1.2rem;
   transition: border-color var(--transition), transform var(--transition);
+  position: relative;
 }
 
 .project-card:hover {
